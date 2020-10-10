@@ -2,175 +2,175 @@
   {
     "finding": "MAX",
     "statedBy": "Tjek, ThoughtWorks, MediaAtHand, Google, DigitalOcean, Microsoft, IBM",
-    "confidenceScore": 27.38095238095238,
-    "expertiseScore": 25
+    "confidenceScore": 4.498299319727891,
+    "expertiseScore": 3.7500000000000004
   },
   {
     "finding": "Using public cloud offerings makes complex software more accesible.",
     "statedBy": "Tjek, ThoughtWorks, MediaAtHand, Google, DigitalOcean, Microsoft",
-    "confidenceScore": 25,
-    "expertiseScore": 23.80952380952381
+    "confidenceScore": 3.7500000000000004,
+    "expertiseScore": 3.4013605442176877
   },
   {
     "finding": "Cloud providers' should be delivering simple tools and managed services.",
     "statedBy": "IBM, DigitalOcean, ThoughtWorks, MediaAtHand, Google, Microsoft",
-    "confidenceScore": 22.61904761904762,
-    "expertiseScore": 19.047619047619047
+    "confidenceScore": 3.069727891156463,
+    "expertiseScore": 2.1768707482993195
   },
   {
     "finding": "Cloud tools hide complexity from the user.",
     "statedBy": "Tjek, ThoughtWorks, MediaAtHand, DigitalOcean, IBM",
-    "confidenceScore": 20.238095238095237,
-    "expertiseScore": 16.666666666666668
+    "confidenceScore": 2.457482993197279,
+    "expertiseScore": 1.666666666666667
   },
   {
     "finding": "Complexity can be handled by out-sourcing parts of the system to cloud.",
     "statedBy": "Google, ThoughtWorks, MediaAtHand, DigitalOcean",
-    "confidenceScore": 17.857142857142858,
-    "expertiseScore": 15.476190476190476
+    "confidenceScore": 1.9132653061224492,
+    "expertiseScore": 1.4370748299319729
   },
   {
     "finding": "It is easier to operate in cloud vs. on-premise.",
     "statedBy": "MediaAtHand, ThoughtWorks, Tjek, Microsoft",
-    "confidenceScore": 16.666666666666668,
-    "expertiseScore": 15.476190476190476
+    "confidenceScore": 1.666666666666667,
+    "expertiseScore": 1.4370748299319729
   },
   {
     "finding": "Cloud is a good tool for prototyping.",
     "statedBy": "MediaAtHand, ThoughtWorks, Tjek",
-    "confidenceScore": 14.285714285714286,
-    "expertiseScore": 13.095238095238095
+    "confidenceScore": 1.2244897959183674,
+    "expertiseScore": 1.0289115646258502
   },
   {
     "finding": "It is difficult to choose the right cloud tools.",
     "statedBy": "MediaAtHand, Google, Tjek",
-    "confidenceScore": 13.095238095238095,
-    "expertiseScore": 14.285714285714286
+    "confidenceScore": 1.0289115646258502,
+    "expertiseScore": 1.2244897959183674
   },
   {
     "finding": "Cloud decreases control over the software.",
     "statedBy": "Google, Tjek, MediaAtHand",
-    "confidenceScore": 13.095238095238095,
-    "expertiseScore": 14.285714285714286
+    "confidenceScore": 1.0289115646258502,
+    "expertiseScore": 1.2244897959183674
   },
   {
     "finding": "The goal of cloud is to drive businesses forward.",
     "statedBy": "Google, ThoughtWorks, MediaAtHand",
-    "confidenceScore": 14.285714285714286,
-    "expertiseScore": 13.095238095238095
+    "confidenceScore": 1.2244897959183674,
+    "expertiseScore": 1.0289115646258502
   },
   {
     "finding": "Cloud tools automate typical operations tasks.",
     "statedBy": "Tjek, ThoughtWorks, MediaAtHand",
-    "confidenceScore": 14.285714285714286,
-    "expertiseScore": 13.095238095238095
+    "confidenceScore": 1.2244897959183674,
+    "expertiseScore": 1.0289115646258502
   },
   {
     "finding": "Cloud tools are automating highly complex operations.",
     "statedBy": "Tjek, ThoughtWorks, DigitalOcean",
-    "confidenceScore": 14.285714285714286,
-    "expertiseScore": 13.095238095238095
+    "confidenceScore": 1.2244897959183674,
+    "expertiseScore": 1.0289115646258502
   },
   {
     "finding": "Technical complexity should be handled by cloud vendor.",
     "statedBy": "MediaAtHand, Google, IBM, DigitalOcean",
-    "confidenceScore": 14.285714285714286,
-    "expertiseScore": 11.904761904761905
+    "confidenceScore": 1.2244897959183674,
+    "expertiseScore": 0.8503401360544219
   },
   {
     "finding": "It is easier to scale and deliver services trough public cloud.",
     "statedBy": "Microsoft, Tjek, ThoughtWorks",
-    "confidenceScore": 13.095238095238095,
-    "expertiseScore": 13.095238095238095
+    "confidenceScore": 1.0289115646258502,
+    "expertiseScore": 1.0289115646258502
   },
   {
     "finding": "Cloud makes it easier for businesses to react to market needs.",
     "statedBy": "ThoughtWorks, Microsoft, MediaAtHand",
-    "confidenceScore": 11.904761904761905,
-    "expertiseScore": 9.523809523809524
+    "confidenceScore": 0.8503401360544219,
+    "expertiseScore": 0.5442176870748299
   },
   {
     "finding": "Cloud increases cost-efficiency.",
     "statedBy": "Google, MediaAtHand, Microsoft",
-    "confidenceScore": 10.714285714285714,
-    "expertiseScore": 10.714285714285714
+    "confidenceScore": 0.6887755102040817,
+    "expertiseScore": 0.6887755102040817
   },
   {
     "finding": "Hiding complexity makes troubleshooting problems more difficult.",
     "statedBy": "Tjek, ThoughtWorks",
-    "confidenceScore": 10.714285714285714,
-    "expertiseScore": 10.714285714285714
+    "confidenceScore": 0.6887755102040817,
+    "expertiseScore": 0.6887755102040817
   },
   {
     "finding": "Cloud increases complexity.",
     "statedBy": "ThoughtWorks, Tjek",
-    "confidenceScore": 10.714285714285714,
-    "expertiseScore": 10.714285714285714
+    "confidenceScore": 0.6887755102040817,
+    "expertiseScore": 0.6887755102040817
   },
   {
     "finding": "Unclear pricing schemes are a problem in cloud.",
     "statedBy": "MediaAtHand, Google",
-    "confidenceScore": 8.333333333333334,
-    "expertiseScore": 8.333333333333334
+    "confidenceScore": 0.41666666666666674,
+    "expertiseScore": 0.41666666666666674
   },
   {
     "finding": "Developer experience is an important factor when choosing a cloud provider.",
     "statedBy": "DigitalOcean, Tjek",
-    "confidenceScore": 8.333333333333334,
-    "expertiseScore": 8.333333333333334
+    "confidenceScore": 0.41666666666666674,
+    "expertiseScore": 0.41666666666666674
   },
   {
     "finding": "Complexity can be handled by providing users with easy-to-use tooling.",
     "statedBy": "IBM, MediaAtHand, DigitalOcean",
-    "confidenceScore": 9.523809523809524,
-    "expertiseScore": 5.9523809523809526
+    "confidenceScore": 0.5442176870748299,
+    "expertiseScore": 0.21258503401360548
   },
   {
     "finding": "Using open-source software in cloud makes troubleshooting easier.",
     "statedBy": "Tjek",
-    "confidenceScore": 4.761904761904762,
-    "expertiseScore": 5.9523809523809526
+    "confidenceScore": 0.13605442176870747,
+    "expertiseScore": 0.21258503401360548
   },
   {
     "finding": "Complexity can be addressed by increasing transparency of cloud tools.",
     "statedBy": "Tjek",
-    "confidenceScore": 4.761904761904762,
-    "expertiseScore": 5.9523809523809526
+    "confidenceScore": 0.13605442176870747,
+    "expertiseScore": 0.21258503401360548
   },
   {
     "finding": "Training should be the goal of cloud providers.",
     "statedBy": "ThoughtWorks",
-    "confidenceScore": 5.9523809523809526,
-    "expertiseScore": 4.761904761904762
+    "confidenceScore": 0.21258503401360548,
+    "expertiseScore": 0.13605442176870747
   },
   {
     "finding": "Cross-functional teams can deal with complexity better.",
     "statedBy": "ThoughtWorks",
-    "confidenceScore": 5.9523809523809526,
-    "expertiseScore": 4.761904761904762
+    "confidenceScore": 0.21258503401360548,
+    "expertiseScore": 0.13605442176870747
   },
   {
     "finding": "Companies should be breaking knowledge silos.",
     "statedBy": "ThoughtWorks",
-    "confidenceScore": 5.9523809523809526,
-    "expertiseScore": 4.761904761904762
+    "confidenceScore": 0.21258503401360548,
+    "expertiseScore": 0.13605442176870747
   },
   {
     "finding": "Cloud complexity is decreasing.",
     "statedBy": "Microsoft, MediaAtHand",
-    "confidenceScore": 5.9523809523809526,
-    "expertiseScore": 4.761904761904762
+    "confidenceScore": 0.21258503401360548,
+    "expertiseScore": 0.13605442176870747
   },
   {
     "finding": "Cloud vendors should be reliable.",
     "statedBy": "DigitalOcean",
-    "confidenceScore": 3.5714285714285716,
-    "expertiseScore": 2.380952380952381
+    "confidenceScore": 0.07653061224489796,
+    "expertiseScore": 0.03401360544217687
   },
   {
     "finding": "Developer experience can be evaluated by interviewing engineers.",
     "statedBy": "DigitalOcean",
-    "confidenceScore": 3.5714285714285716,
-    "expertiseScore": 2.380952380952381
+    "confidenceScore": 0.07653061224489796,
+    "expertiseScore": 0.03401360544217687
   }
 ]

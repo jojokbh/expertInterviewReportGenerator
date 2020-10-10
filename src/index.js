@@ -141,16 +141,21 @@ const generateScoredFindings = async (nameOfReport, findings, scores) => {
     await (async () => {
         const findingsByPercentaageScore = findings.map(f => {
             const statedBy = f.statedBy.split(', ')
+
+            const cScore = statedBy.reduce(((acc, cur) => {
+                const matchedProfile = findByDisplayName(cur)
+                return acc + matchedProfile.confidenceLevel
+            }), 0)
+
+            const eScore = statedBy.reduce(((acc, cur) => {
+                const matchedProfile = findByDisplayName(cur)
+                return acc + matchedProfile.expertiseLevel
+            }), 0)
+            
             return {
                 ...f,
-                confidenceScore: statedBy.reduce(((acc, cur) => {
-                    const matchedProfile = findByDisplayName(cur)
-                    return acc + matchedProfile.confidenceLevel
-                }), 0)* 100 / maxPopularity,
-                expertiseScore: statedBy.reduce(((acc, cur) => {
-                    const matchedProfile = findByDisplayName(cur)
-                    return acc + matchedProfile.expertiseLevel
-                }), 0) * 100 / maxPopularity
+                confidenceScore: cScore * 100 / maxPopularity * ((cScore/7)*0.05),
+                expertiseScore:  eScore * 100 / maxPopularity * ((eScore/7)*0.05)
             }
         })
     
